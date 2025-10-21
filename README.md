@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA5MzUyNW1kd2doMDZsNHIzdWh3ODlvZ2Y1d2R6a21jbnczcXA4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbox1ygIqnga5dLinz/giphy.gif"  />
 </div>
 
 ###
@@ -19,7 +19,13 @@
 
 ###
 
-<p align="left">I'm Thibault from Paris, France<br>- 🔭 I’m studying IT at ECE Paris<br>- 📚 I'm currently learning DevOps, Webtechs & Databases<br>- ⚡ In my free time I enjoy many video games</p>
+<p align="left">
+👋 I'm <strong>Thibault</strong> from Paris, France 🇫🇷<br>
+💼 Software Engineer at <strong>Airbus Defence and Space</strong><br>
+🎓 IT graduate from <strong>ECE Paris</strong>, with a specialization in <strong>IT & Cybersecurity</strong><br>
+🧠 Currently learning <strong>Go</strong>, <strong>Rust</strong> and strengthening my <strong>cybersecurity</strong> skills — especially in <strong>pentesting</strong><br>
+🎧 In my free time, I enjoy <strong>video games</strong>, exploring <strong>new tech</strong>, listening to <strong>music</strong> and going to <strong>festivals & concerts</strong> 🎵
+</p>
 
 ###
 
@@ -66,15 +72,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThibaultEmo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
