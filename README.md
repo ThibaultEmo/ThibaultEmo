@@ -2,15 +2,6 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA5MzUyNW1kd2doMDZsNHIzdWh3ODlvZ2Y1d2R6a21jbnczcXA4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbox1ygIqnga5dLinz/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thibault-emo-/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="mailto:thibault.emo@outlook.com"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /></a>
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -20,7 +11,7 @@
 ###
 
 <p align="left">
-👋 I'm <strong>Thibault</strong> from Paris, France 🇫🇷<br>
+👋 I'm <strong>Thibault</strong> from Paris, France<br>
 💼 Software Engineer at <strong>Airbus Defence and Space</strong><br>
 🎓 IT graduate from <strong>ECE Paris</strong>, with a specialization in <strong>IT & Cybersecurity</strong><br>
 🧠 Currently learning <strong>Go</strong>, <strong>Rust</strong> and strengthening my <strong>cybersecurity</strong> skills — especially in <strong>pentesting</strong><br>
@@ -72,3 +63,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
 </div>
+
+<h3 align="left">🌚 Socials and contacts</h3>
+
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thibault-emo-/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="mailto:thibault.emo@outlook.com"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /></a>
+</div>
+
+###
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thibault-emo-/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="mailto:thibault.emo@outlook.com"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /></a>
+</div>
+
+###
